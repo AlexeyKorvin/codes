@@ -54,7 +54,14 @@ else:
     print("Число не простое")"""
     
 
-
+"""a = input()
+count = 0
+s='aeiouAEIOU'
+#b = set(aeiou)
+for i in a:
+    if i in s:
+        count += 1
+print(count)"""
 
 
 
